@@ -1,0 +1,20 @@
+$c1                   |\t\t\t
+$c1                   A\t\t\t
+$c1                  RCH\t\t\t
+$c1                 ARCHA\t\t\t
+$c1                `RCHAR;\t\t\t
+$c1               +. CHARC.\t\t
+$c1              .HA+;RCHAR\t\t
+$c1             .CHARCHARCHA\t\t
+$c1            .RCHA${c2}RCHARCH${c1}AR\t\t
+$c1            CH${c2}ARCHARCHARCH${c1}A\t\t
+$c1           +${c2}RCHARC' `HARCHA.\t\t
+$c2          +RCHAR;     ;CHARC.\t\t
+$c2         ;HARCHA;     ;RCHARC.\t\tLocale: ${z}de_DE.UTF-8
+$c2        .HARCHARC     HARCH+`"\t\tInput method: ${z}Ibus
+$c2       .ARCHARCHA'   `RCHARCHA;.\tX Cursor: ${z}Comix Cursor original orange Huge Bold
+$c2      .RCHARC'           `HARCHA.\tX Terminal: ${z}rxvt-unicode
+$c2     .RCH'                   "AR;.\tX Terminal-font: ${z}Monaco 10
+$c2    ,C'                        ``H.\tTerminal multiplexer: ${z}tmux
+$c2
+$c2         Arch Linux ${z}:: ${c1}Eine flexible und leichtgewichtige Linux-Distribution.

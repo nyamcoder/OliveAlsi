@@ -1,0 +1,24 @@
+        /'''''''''''''''''''''''''''''''''''''/|
+        +------------------------------------+/|....
+        |                                    |/|...
+        |  alsi.logo2 (a.k.a. "Olive Alsi")  |/|..
+        |                                    |/|.
+        +====================================+/.
+
+                    °°°°°°°°°°..
+                    ° README °.
+                    °°°°°°°°°°
+
+"alsi.logo2" is an alternative Alsi logo which is IMHO more "Arch-like" than those provided by Alsi or archey. The colors are set to match my "Olive Touch" subtle-WM theme, though.
+
+To fill the empty trailing lines right of the logo, I manually added pseudo-functions and values indicating the locale, X input method, and others, as well as there is a bottom line with a slogan in German: "Arch Linux :: Eine flexible und leichtgewichtige Linux-Distribution."; you may want to edit these. -- Example screenshot: http://mitoxd.deviantart.com/art/Olive-Alsi-398992389
+
+Just copy "alsi.logo2" to your ~/.config/alsi/ directory, load it with the "-f" option, or declare it as default logo in alsi.conf.
+
+Note: For the similar looking /etc/issue in Arch-blue colors, look for my "Arch-blueissue" remote.
+
+
+Have fun! ^^
+
+
+:: nyamcoder ::
